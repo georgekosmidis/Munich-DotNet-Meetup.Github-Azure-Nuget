@@ -21,5 +21,5 @@ steps:
   displayName: Pack
   inputs:
     command: 'pack'
-    packagesToPack: 'Github_Azure_Nuget/*.csproj'
+    packagesToPack: 'meetup/*.csproj'
     versioningScheme: 'off'
