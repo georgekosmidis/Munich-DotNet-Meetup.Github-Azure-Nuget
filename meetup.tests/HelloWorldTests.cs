@@ -9,7 +9,7 @@ namespace meetup.tests
         public void SayHelloTest()
         {
             var result = HelloWorld.SayHello();
-            Assert.AreEqual("Hello World!", result);
+            Assert.AreEqual("Hello Worlds!", result);
         }
     }
 }
